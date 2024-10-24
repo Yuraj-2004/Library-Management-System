@@ -3,7 +3,7 @@ This is my first Git Repository.
 <br>
 DEVELOPED BY: Yuraj Singh
 <br>
-**Overview of the Library Management System**
+**Overview of the Library Management System**<br>
 The Library Management System is a console-based application designed to manage a library's collection of books. It offers a streamlined solution for both administrators and students to handle various tasks associated with library management. The system provides two distinct user interfaces: an admin interface and a student interface, each with its own set of functionalities.
 Goal and Functionality: The primary goal of the system is to manage the inventory of books efficiently, allowing for easy addition, searching, issuing, and returning of books. The system ensures that students can access available books and that administrators can maintain the library catalog without complications.
 
