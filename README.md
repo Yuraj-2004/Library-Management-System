@@ -1,2 +1,4 @@
 # Library-Management-System
-This is my first Git Repository. Author - Yuraj Singh
+This is my first Git Repository. 
+<br>
+Author - Yuraj Singh
